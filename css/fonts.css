@@ -1,0 +1,6 @@
+@font-face {
+	font-family: "bebasneuecyrillic";
+	font-display: swap;
+	src: url("../fonts/bebasneuecyrillic.ttf") format("woff2"), url("../fonts/bebasneuecyrillic.woff") format("woff");
+	font-weight: 400;
+}
